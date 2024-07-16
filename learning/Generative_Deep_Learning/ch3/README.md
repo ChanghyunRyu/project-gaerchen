@@ -44,3 +44,5 @@
   - 인코딩된 모든 분포가 표준 정규 분포와 가깝게 됩니다. 이에 따라 클러스터 사이에서 큰 간격이 생길 가능성이 적어집니다.
   - 기존 손실 함수(재구성 손실)의 가중치가 너무 크면 KL 손실이 힘을 쓰지 못 해 기존 오토인코더의 문제점을 반복합니다. 
   반대로 KL 손실에 너무 가중치를 두면 재구성 이미지 품질이 나빠집니다. 이를 적절히 튜닝하는 것이 중요합니다.
+
+[**Keras를 사용하여 변형 오코인코더 구현**](https://github.com/ChanghyunRyu/project-gaerchen/blob/main/learning/Generative_Deep_Learning/ch3/vae_example.ipynb)
