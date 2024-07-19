@@ -25,4 +25,4 @@
 파라미터를 잘 조정하면 위의 문제가 발생하지 않을 수도 있고 반대로 적절하지 못한 파라미터는 GAN 학습에서 많은 문제를 발생하게 합니다.  
 이러한 많은 수의 파라미터는 GAN 훈련을 어렵게 하는 요인 중 하나입니다.
 
-
+[**Keras를 이용한 DCGAN 구현**](https://github.com/ChanghyunRyu/project-gaerchen/blob/main/learning/Generative_Deep_Learning/ch4/dcgan_example.ipynb)
